@@ -1,0 +1,8 @@
+{
+  "name": "FinProof",
+  "description": "One BFSI desk for banking, financial services, and insurance. FinProof reads KYC files, loans, fraud alerts, invoices, statements, claims, policies, and contracts, cites the rule pack, and recommends Approve, Query, or Escalate. Gemini drafts the handler and customer notes from those citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "theme": "BFSI — Intelligent Risk, Fraud & Financial Experiences",
+  "hackathon": "Google Cloud AI Builder Cup 2026"
+}

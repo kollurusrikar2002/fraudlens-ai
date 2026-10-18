@@ -1,0 +1,6 @@
+Room rent charged: Rs 8,000 per day.
+Patient: Anika Bose
+Hospital: City Care
+Bill: B-7740
+Admission: 4 Oct 2026
+Procedure: closed reduction and cast

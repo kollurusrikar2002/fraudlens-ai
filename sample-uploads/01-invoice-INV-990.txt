@@ -1,0 +1,5 @@
+Quantity billed: 90 reams at Rs 420.
+Supplier: Northwind Paper
+Invoice: INV-990
+Date: 12 Oct 2026
+Bill to: Harbour Desk

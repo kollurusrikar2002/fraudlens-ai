@@ -1,0 +1,5 @@
+Quantity received: 40 reams.
+Supplier: Northwind Paper
+Goods receipt: GR-990
+Date: 12 Oct 2026
+Received at: Warehouse bay 2
